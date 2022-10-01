@@ -1,0 +1,9 @@
+/* Cores */
+
+:root {
+--BackgroundPadrao: rgb(255, 255, 255);
+}
+
+body {
+    background-color: var(--BackgroundPadrao);
+}
