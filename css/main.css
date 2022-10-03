@@ -1,9 +1,20 @@
 /* Cores */
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
 
 :root {
---BackgroundPadrao: rgb(255, 255, 255);
+    /* Cores */
+    --BackgroundPadrao: rgb(195, 195, 254);
+
+    /* Fontes */
+    --Fjalla-One: 'Fjalla One', sans-serif;
 }
 
 body {
     background-color: var(--BackgroundPadrao);
+    font-family: var(--Fjalla-One)
 }
+
+/* .container {
+
+} */
+
